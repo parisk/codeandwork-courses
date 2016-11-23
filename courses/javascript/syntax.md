@@ -96,3 +96,20 @@ var sq = square;
 
 console.log(sq(2));    // 4
 ```
+
+## Objects
+
+JavaScript is an object-based language based on prototypes instead of classes.
+
+```javascript
+// "Object" is a prototype, "myCar" is an object
+var myCar = new Object();
+
+// myCar.brand is a property
+myCar.brand = "Ford";
+
+// myCar.getBrand is a method
+myCar.getBrand = function () {
+  return this.brand; // "this" refers to the current object: myCar
+}
+```
