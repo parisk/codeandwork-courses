@@ -77,7 +77,6 @@ Functions are one of the fundamental building blocks in JavaScript.
 A function is a JavaScript procedure—a set of statements that performs a task or calculates a value.
 
 ```javascript
-// σ
 function square(x) {
   return x * x;
 }
