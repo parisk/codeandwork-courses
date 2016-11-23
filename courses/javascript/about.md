@@ -2,7 +2,7 @@
 
 Paris Kasidiaris
 
-[@pariskasid](https://twitter.com/pariskasid)
+[@pariskasid](https://twitter.com/pariskasid) / [paris@sourcelair.com](mailto:paris@sourcelair.com)
 
 ## Agenda
 
