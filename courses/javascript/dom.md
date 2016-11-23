@@ -71,6 +71,9 @@ document.body.appendChild(d);
 d.appendChild(img);
 ```
 
+[coding-bootcamp.pkasid.com/exercises/javascript/5_dom_create/](http://coding-bootcamp.pkasid.com/exercises/javascript/5_dom_create/)
+[developer.mozilla.org/en-US/docs/Web/API/Document/createElement](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
+
 
 ## Modifying HTML elements
 
@@ -84,6 +87,9 @@ img.src = 'https://github.com/parisk.png';
 // Modify the HTML contents of an element
 d.innerHTML = 'This is some <strong>bold test</strong>.';
 ```
+
+[coding-bootcamp.pkasid.com/exercises/javascript/6_dom_modify/](http://coding-bootcamp.pkasid.com/exercises/javascript/6_dom_modify/)
+[developer.mozilla.org/en-US/docs/Web/API/HTMLElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement)
 
 
 ## Learning more about the DOM
