@@ -17,6 +17,7 @@ Paris Kasidiaris
 * AJAX
 * Learning more about jQuery
 
+
 ## About jQuery
 
 jQuery is a fast, small, and feature-rich JavaScript library.
@@ -46,6 +47,7 @@ The easiest one is by using jQuery's CDN.
   </body>
 </html>
 ```
+
 
 ## Syntax overview
 
