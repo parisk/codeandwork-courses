@@ -4,6 +4,7 @@ Paris Kasidiaris
 
 [@pariskasid](https://twitter.com/pariskasid) / [paris@sourcelair.com](mailto:paris@sourcelair.com)
 
+
 ## Agenda
 
 * What is JavaScript
@@ -11,17 +12,19 @@ Paris Kasidiaris
 * Where can I run JavaScript
 * What JavaScript looks like
 
+
 ## What is JavaScript
 
-JavaScript (JS) is a lightweight, interpreted, programming language with first-class functions.
+A lightweight, interpreted, programming language.
 
-Notes:
+### Notes
 
 * JS is a prototype-based, multi-paradigm, dynamic scripting language
-* It is most well-known as the scripting language for Web pages
-* Μany non-browser environments also use it, such as Νode.js and Apache CouchDB
+* It is known as the scripting language for Web pages
+* It is used in non-browser environments also, like Νode.js and CouchDB
 
-Source: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 
 ## What can I do with JavaScript
 
@@ -29,10 +32,12 @@ Source: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 * Develop server-side applications
 * Interact with my database (e.g. CouchDB)
 
+
 ## Where can I run JavaScript
 
 * In the browser
 * On the server
+
 
 ## What JavaScript looks like
 

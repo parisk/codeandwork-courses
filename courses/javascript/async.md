@@ -4,12 +4,14 @@ Paris Kasidiaris
 
 [@pariskasid](https://twitter.com/pariskasid) / [paris@sourcelair.com](mailto:paris@sourcelair.com)
 
+
 ## Agenda
 
 * Intro
 * DOM event listeners
 * Important DOM events
 * Asynchronous HTTP requests
+
 
 ## Intro
 
@@ -18,6 +20,7 @@ JavaScript is a single-threaded language.
 Only one line of code is being run at a given time.
 
 We need to interact with user input though in real time.
+
 
 ## The DOM event system
 
@@ -36,6 +39,7 @@ button.addEventListener('click', function () {
 });
 ```
 
+
 ## Important DOM events
 
 - `load`: Triggered on `window` when it finishes loading
@@ -44,6 +48,7 @@ button.addEventListener('click', function () {
 - `keypress`: Triggered on a focused element when the user presses a key
 
 [developer.mozilla.org/en-US/docs/Web/Events](https://developer.mozilla.org/en-US/docs/Web/Events)
+
 
 ## Asynchronous HTTP requests
 

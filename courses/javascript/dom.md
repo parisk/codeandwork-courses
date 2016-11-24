@@ -4,6 +4,7 @@ Paris Kasidiaris
 
 [@pariskasid](https://twitter.com/pariskasid) / [paris@sourcelair.com](mailto:paris@sourcelair.com)
 
+
 ## Agenda
 
 * Intro
@@ -13,6 +14,7 @@ Paris Kasidiaris
 * Modifying HTML elements
 * Learning more about the DOM
 
+
 ## Intro
 
 The Document Object Model (DOM) is a programming interface for HTML.
@@ -20,6 +22,7 @@ The Document Object Model (DOM) is a programming interface for HTML.
 It provides a structured representation of the document (e.g. a web page) as a tree.
 
 It defines methods that allow access to the tree, so that they can change the document structure, style and content.
+
 
 ## Accessing the DOM
 
@@ -39,6 +42,7 @@ var button = document.getElementById('button');
 button.textContent = 'Push the button!'
 ```
 
+
 ## Accessing HTML elements
 
 ```javascript
@@ -51,6 +55,7 @@ var prettyElements = document.getElementsByClassName('pretty');
 // Accessing HTML elements by CSS selectors
 var prettyDivs = document.querySelectorAll('div.pretty');
 ```
+
 
 ## Creating HTML elements
 
@@ -66,6 +71,10 @@ document.body.appendChild(d);
 d.appendChild(img);
 ```
 
+[coding-bootcamp.pkasid.com/exercises/javascript/5_dom_create/](http://coding-bootcamp.pkasid.com/exercises/javascript/5_dom_create/)
+[developer.mozilla.org/en-US/docs/Web/API/Document/createElement](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
+
+
 ## Modifying HTML elements
 
 ```javascript
@@ -78,6 +87,10 @@ img.src = 'https://github.com/parisk.png';
 // Modify the HTML contents of an element
 d.innerHTML = 'This is some <strong>bold test</strong>.';
 ```
+
+[coding-bootcamp.pkasid.com/exercises/javascript/6_dom_modify/](http://coding-bootcamp.pkasid.com/exercises/javascript/6_dom_modify/)
+[developer.mozilla.org/en-US/docs/Web/API/HTMLElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement)
+
 
 ## Learning more about the DOM
 
