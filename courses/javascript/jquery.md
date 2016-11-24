@@ -32,20 +32,7 @@ There are many ways to include jQuery in your website.
 The easiest one is by using jQuery's CDN.
 
 ```html
-<!doctype html>
-<html>
-  <head>
-    ...
-    <script
-      src="https://code.jquery.com/jquery-3.1.1.min.js"
-      integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
-      crossorigin="anonymous"
-    ></script>
-  </head>
-  <body>
-    ...
-  </body>
-</html>
+&lt;!doctype html&gt;<br/>&lt;html&gt;<br/>  &lt;head&gt;<br/>    ...<br/>    &lt;script<br/>      src=&quot;https://code.jquery.com/jquery-3.1.1.min.js&quot;<br/>      integrity=&quot;sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=&quot;<br/>      crossorigin=&quot;anonymous&quot;<br/>    &gt;&lt;/script&gt;<br/>  &lt;/head&gt;<br/>  &lt;body&gt;<br/>    ...<br/>  &lt;/body&gt;<br/>&lt;/html&gt;
 ```
 
 
