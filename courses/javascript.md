@@ -4,3 +4,4 @@
 * [The syntax of JavaScript](javascript/syntax.md)
 * [The Document Object Model](javascript/dom.md)
 * [Asynchronous JavaScript](javascript/async.md)
+* [Intro to jQuery](javascript/jquery.md)
