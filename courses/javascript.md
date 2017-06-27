@@ -1,7 +1,5 @@
 # Coding Bootcamp: JavaScript specialization
-## Introduction to JavaScript
-* [About JavaScript](javascript/about.md)
-* [The syntax of JavaScript](javascript/syntax.md)
-* [The Document Object Model](javascript/dom.md)
-* [Asynchronous JavaScript](javascript/async.md)
-* [Intro to jQuery](javascript/jquery.md)
+
+## JavaScript
+* [Introduction to JavaScript](javascript/intro.md)
+* [JavaScript in the browser](javascript/browser.md)
