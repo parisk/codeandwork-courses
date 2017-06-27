@@ -47,6 +47,7 @@ const greeting = `Hi, I am ${name} and I am ${age} years old.`;
 console.log(greeting);
 ```
 
+
 ## JavaScript values
 
 In JavaScript we can store values with these statements: `var`, `let` and `const`.
@@ -59,6 +60,7 @@ const c = 3;  // Declare constant in block scope and initialize it
 
 Values can either be **Primitives** or **Objects**.
 
+
 ## Primitive Values
 
 A **primitive** is data that is not an object and has no methods.
@@ -67,17 +69,20 @@ Example primitives: `1`, `"grace"`, `true`, `null`, `undefined`.
 
 Usually primitive vaues are wrapped in objects.
 
+
 ## Object Values
 
 Object refers to a data structure containing data and instructions for working with the data.
 
 Example objects: `new Date()`, `new XMLHTTPRequest"`.
 
+
 ## Prototypes vs. Classes
 
 JavaScript objects are based on Prototypes, instead of Classes.
 
 Prototypes are less powerful, but are much more lightweight entities.
+
 
 ## Control flow - If statements
 
@@ -90,6 +95,7 @@ if (age <= 18) {
   console.log('Adult');
 }
 ```
+
 
 ## Control flow - Switch statement
 
@@ -115,6 +121,7 @@ for (let counter=0; counter<=stopAt; counter++) {
 }
 ```
 
+
 ## Control flow - While loops
 
 ```javascript
@@ -125,6 +132,7 @@ while (counter<=stopAt) {
   console.log(`Counter is ${counter}`);
 }
 ```
+
 
 ## Functions
 
@@ -137,6 +145,7 @@ function square(x) {
 
 square(2);
 ```
+
 
 ## Functions as Constructors
 
@@ -152,6 +161,7 @@ let car = new Car('tesla');
 console.log(car.brand);
 ```
 
+
 ## Anonymous Functions
 
 Functions can also be anonymous -- function name is redundant.
@@ -166,5 +176,6 @@ let car = new Car('tesla');
 console.log(Car);
 console.log(car);
 ```
+
 
 ## Thank you 😁
