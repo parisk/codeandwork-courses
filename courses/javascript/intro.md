@@ -102,14 +102,16 @@ if (age <= 18) {
 ```javascript
 const theAnswerToEverything = 42;
 
-switch theAnswerToEverything:
-case 42:
-  console.log('That is right');
-  break;
-default:
-  console.log('Not right');
-  break;
+switch theAnswerToEverything{
+  case 42:
+    console.log('That is right');
+    break;
+  default:
+    console.log('Not right');
+    break;
+}
 ```
+
 
 ## Control flow - For loops
 
