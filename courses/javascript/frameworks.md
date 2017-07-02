@@ -11,6 +11,7 @@ Paris Kasidiaris
 * JavaScript frameworks
 * Introduction to jQuery
 
+
 ## About the JavaScript ecosystem
 
 > The JavaScript ecosystem is fucked.
