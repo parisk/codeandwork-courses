@@ -4,3 +4,4 @@
 * [Introduction to JavaScript](javascript/intro.md)
 * [JavaScript in the browser](javascript/browser.md)
 * [JavaScript frameworks](javascript/frameworks.md)
+* [jQuery](javascript/jquery.md)
